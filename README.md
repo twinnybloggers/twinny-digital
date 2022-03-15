@@ -1,7 +1,5 @@
 # twinny-digital
-/* ================================================================================================
-    Peringatan !!
-===================================================================================================
+
     Mengubah / Menghapus file javascript (js) ini dapat mengakibatkan :
     1. Kerusakan / error pada template
     2. Menghilangkan fungsi update / perbaikan otomatis pada template
@@ -10,4 +8,4 @@
     Salam,
     Twinny Blogger - Twinny Property
     Terakhir Diperbarui : 26/02/2022 @ 18:13
-================================================================================================ */
+

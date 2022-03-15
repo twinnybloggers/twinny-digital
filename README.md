@@ -1,4 +1,4 @@
-# twinny-digital
+# Twnny Digital - Blogger Template
 
     Mengubah / Menghapus file javascript (js) ini dapat mengakibatkan :
     1. Kerusakan / error pada template
@@ -6,6 +6,6 @@
     3. Tidak akan mendapatkan support/bantuan dari kreator template
     Terima kasih sudah menggunakan Template Dari Twinny Blogger. :)
     Salam,
-    Twinny Blogger - Twinny Property
+    Tokko Blogger - Twinny Digital - Blogger Template
     Terakhir Diperbarui : 26/02/2022 @ 18:13
 
